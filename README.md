@@ -5,6 +5,9 @@ Each semester the UTS subject Mechanical Design Fundamentals Studio 1 is run to 
 
 In 2022, our project was to transport an object from one part of the table to the other side, without touching the middle of the table. This demonstrates the issue of transportation between chasms. There was a rope wire supported by 2 pylons as an option.
 
+## My Role
+In a team of 3, I was responsible for the overall system design, programming, and the gondola system.
+
 ## Our Solution
 Our solution involved having 2 systems
 - 'Vehicle'
@@ -17,6 +20,8 @@ Our solution involved having 2 systems
  
 ## Results
 The robot worked and it was able to transport the object. However there were some design issues which was why it wasn't able to get full marks.
+Results: 
+https://youtu.be/gKZvIWbBYFQ
 
 Being the first time I built something from the idea phase to the testing phase and the design phase, there were many things I learned in terms of teamwork which I have applied to my other projects so that I become more successful in my future R&D projects.
 
