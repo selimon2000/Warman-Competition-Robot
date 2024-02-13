@@ -23,6 +23,9 @@ The robot worked and it was able to transport the object. However there were som
 Results: 
 https://youtu.be/gKZvIWbBYFQ
 
+## Reflection
 Being the first time I built something from the idea phase to the testing phase and the design phase, there were many things I learned in terms of teamwork which I have applied to my other projects so that I become more successful in my future R&D projects.
 
 I have also improved my skills technically by doing more similar projects, which expanded my ideation and problem solving ability, and engineering intuition.
+
+If I was to do this project again I would apply my robot skills and experience to build a 2-link SCARA robot, which could do this under 10 seconds.
